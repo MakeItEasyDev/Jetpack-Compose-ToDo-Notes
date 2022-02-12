@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ToDoNotes</string>
+
+    <string name="delete_all_tasks">Remove All ToDo Notes?</string>
+    <string name="delete_all_tasks_confirmation">Are you sure you want to remove all ToDo Notes? There is no going back after this action.</string>
+    <string name="add_button"> Add Button</string>
+    <string name="search_action"> Search Action</string>
+    <string name="sort_action">Sort ToDo Notes</string>
+    <string name="delete_all_action">Delete All</string>
+    <string name="list_screen_title">ToDo Notes</string>
+    <string name="search_placeholder">Search</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="close_icon">Close Icon</string>
+    <string name="sad_face_icon">Sad Face Icon</string>
+    <string name="empty_content">No ToDo Notes Found</string>
+    <string name="back_arrow">Back Arrow</string>
+    <string name="add_task">Add ToDo Notes</string>
+    <string name="delete_icon">Delete Icon</string>
+    <string name="update_icon">Update Icon</string>
+    <string name="drop_down_arrow">Drop-Down Arrow Icon</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="delete_task">Remove \'%1$s\'? </string>
+    <string name="delete_task_confirmation">Are you sure want to remove \'%1$s\'? </string>
+</resources>
